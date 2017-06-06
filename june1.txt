@@ -1,0 +1,24 @@
+python :high level interpreted lamguage
+interpreter and compiler are used to process high level to low level
+interpreter: it does what the program sayes
+compiler: it reads the program and translate completely before the program startrunning.
+interpreter can be use in two ways
+ 1.interactive mode: type the python programs and interpreter dispays the result
+ 2.script mode:store the code in file,interpreter executes the contents of that  file {python script end with .py}
+program:sequence of instruction that specifies how to perform the computation
+basic instructions:input,output,condition execution,math,repetition
+program error:bugs
+error correcting:debugging
+types of error:
+1.syntax error:It is due to the incorrection in structure of the program and 
+also about the structure.
+2.runtime error
+3.semantic error
+Debugging:programming is the process of gradually debugging a program until it does what we want
+programming language:formal language that have been designed to express the computation
+syntax rules come in 2 flavors
+a).Tokens
+b).structure of the statement
+parsing:ability to figure out what the structure of sentence 
+PRINTING STATEMENT:
+PRINR "HELLO,WORLD"
